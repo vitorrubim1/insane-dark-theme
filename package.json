@@ -1,0 +1,29 @@
+{
+  "name": "insane-dark-theme",
+  "description": "The insane dark theme",
+  "displayerName": "Insane Dark", 
+  "version": "1.0.0",
+  "keywords": ["theme", "Theme", "insane", "Insane", "dark", "Dark", "Vitor Rubim"],
+  "publisher": "VitorRubimPassos",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Insane Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/insane.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package --no-yarn",
+    "publish": "vsce package --no-yarn"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vsce": "^2.6.7"
+  }
+}
