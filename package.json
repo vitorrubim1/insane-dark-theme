@@ -1,9 +1,21 @@
 {
   "name": "insane-dark-theme",
-  "description": "The insane dark theme",
-  "displayerName": "Insane Dark", 
-  "version": "1.0.0",
-  "keywords": ["theme", "Theme", "insane", "Insane", "dark", "Dark", "Vitor Rubim"],
+  "description": "Official Insane theme. A dark theme with a hint of purple, install and enjoy.",
+  "displayerName": "Insane Dark",
+  "icon": "assets/logoBox.png",
+  "version": "2.0.0",
+  "keywords": [
+    "theme",
+    "Theme",
+    "THEME",
+    "insane",
+    "Insane",
+    "INSANE",
+    "dark",
+    "Dark",
+    "DARK",
+    "Vitor Rubim"
+  ],
   "publisher": "VitorRubimPassos",
   "engines": {
     "vscode": "^1.22.0"
@@ -25,5 +37,9 @@
   "license": "MIT",
   "devDependencies": {
     "vsce": "^2.6.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitorrubim1/insane-dark-theme.git"
   }
 }
