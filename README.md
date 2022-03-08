@@ -1,11 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/vitorrubim1/insane-dark-theme/main/assets/insane-logo.png" height="35" />
-</h1>
-
-## Reason for creation
-Tired of looking for a dark and cool theme, I decided to create Insane. The dark theme with a hint of purple :)
-
-
 ## Color palette
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/vitorrubim1/insane-dark-theme/main/assets/color-palette.png">
@@ -19,7 +11,7 @@ Tired of looking for a dark and cool theme, I decided to create Insane. The dark
   <img src="https://raw.githubusercontent.com/vitorrubim1/insane-dark-theme/main/assets/insane-theme-example.png">
 </h1>
 
-*This is a topic for personal use, so I don't accept contributions. But you can download it as a base to build your own, or try the theme creation playground: https://themes.vscode.one/*
+*This is a topic for personal use, so I don't accept contributions, only suggestions. But you can download it as a base to create your own or try the theme creation playground: https://themes.vscode.one/*
 
 ## How to download and edit
 ```bash
